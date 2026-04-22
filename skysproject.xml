@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="device/xiaomi/duchamp" name="HanaSkys/device_xiaomi_duchamp" remote="github" revision="Sakura-Stable" />
-    <project path="kernel/xiaomi/mt6897" name="mt6897-devs/android_kernel_6.1" remote="github" revision="lineage-23.2" />
+    <project path="kernel/xiaomi/mt6897" name="mt6897-devs/android_kernel_6.1" remote="github" revision="main" />
     <project path="device/xiaomi/duchamp-kernel" name="mt6897-devs/device_xiaomi_duchamp-kernel" remote="github" revision="lineage-23.2" />
     <project path="vendor/xiaomi/duchamp" name="mt6897-devs/vendor_xiaomi_duchamp" remote="github" revision="lineage-23.2" />
     <project path="device/mediatek/sepolicy_vndr" name="mt6897-devs/device_mediatek_sepolicy_vndr" remote="github" revision="lineage-23.2" />
