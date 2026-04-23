@@ -10,4 +10,4 @@
 
     <remove-project name="packages_modules_Bluetooth" />
     <project path="packages/modules/Bluetooth" name="HanaSkys/packages_modules_Bluetooth" remote="github" revision="main" />
-</manifest>
+  </manifest>
